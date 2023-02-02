@@ -34,3 +34,29 @@
 <a href="https://github.com/CodedRedYT"><img width="350" src="https://imgur.com/iejLDz7.png" alt="codedRed-youtube-org"></a> 
 <a href="https://github.com/CodedRed-Spigot"><img width="350" src="https://imgur.com/gBEkHOF.png" alt="codedRed-spigot-plugin-org"></a>
 </p>
+   
+### 📺 Latest & Greatest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/codedred?sub_confirmation=1)
+
+#
+
+<details open> 
+  <summary><h2>📎 My Top Open Source Projects</h2></summary>
+  <p align="left">
+    <a href="https://github.com/CodedRedGIT/server-transfer-fabric-spigot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodedRedGIT&repo=server-transfer-fabric-spigot&theme=react&bg_color=1F222E&title_color=DE3163&hide_border=true&icon_color=F8D866&show_icons=true" alt="server-transfer-fabric-spigot"></a>
+     <a href="https://github.com/CodedRed-Spigot/PlayTimes"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodedRed-Spigot&repo=PlayTimes&theme=react&bg_color=1F222E&title_color=DE3163&hide_border=true&icon_color=F8D866&show_icons=true" alt="PlayTimes"></a>
+          <a href="https://github.com/CodedRed-Spigot/XpBottles"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodedRed-Spigot&repo=XPBottles&theme=react&bg_color=1F222E&title_color=DE3163&hide_border=true&icon_color=F8D866&show_icons=true" alt="PlayTimes"></a>
+   </p>
+   
+<details closed> 
+  <summary><h2>🖇 Top Projects I've Contributed To</h2></summary>
+
+  <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
+  <p align="left">
+    <a href="https://github.com/worldql/mammoth"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WorldQL&repo=mammoth&theme=react&bg_color=1F222E&title_color=DE3163&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="mammoth"></a>
+         <a href="https://github.com/WorldQL/SMPL-to-FBX"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WorldQL&repo=SMPL-to-FBX&theme=react&bg_color=1F222E&title_color=DE3163&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="SMPL-to-FBX"></a>
+  </p>
