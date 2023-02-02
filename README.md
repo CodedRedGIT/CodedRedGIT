@@ -38,6 +38,7 @@
 <a href="https://github.com/CodedRedYT"><img width="350" src="https://imgur.com/iejLDz7.png" alt="codedRed-youtube-org"></a> 
 <a href="https://github.com/CodedRed-Spigot"><img width="350" src="https://imgur.com/gBEkHOF.png" alt="codedRed-spigot-plugin-org"></a>
 </p>
+</details>
    
 ## 📺 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -58,6 +59,8 @@
      <a href="https://github.com/CodedRed-Spigot/PlayTimes"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodedRed-Spigot&repo=PlayTimes&theme=react&bg_color=1F222E&title_color=DE3163&hide_border=true&icon_color=F8D866&show_icons=true" alt="PlayTimes"></a>
           <a href="https://github.com/CodedRed-Spigot/XpBottles"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodedRed-Spigot&repo=XPBottles&theme=react&bg_color=1F222E&title_color=DE3163&hide_border=true&icon_color=F8D866&show_icons=true" alt="PlayTimes"></a>
    </p>
+   </details>
+   
    
 <details closed> 
   <summary><h2>🖇 Top Projects I've Contributed To</h2></summary>
@@ -67,3 +70,4 @@
     <a href="https://github.com/worldql/mammoth"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WorldQL&repo=mammoth&theme=react&bg_color=1F222E&title_color=DE3163&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="mammoth"></a>
          <a href="https://github.com/WorldQL/SMPL-to-FBX"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WorldQL&repo=SMPL-to-FBX&theme=react&bg_color=1F222E&title_color=DE3163&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="SMPL-to-FBX"></a>
   </p>
+   </details>
