@@ -1,4 +1,3 @@
-
 <p align="center">
 <a href="https://github.com/CodedRedYT"><img width="350" src="https://imgur.com/Ucj3LVH.png" alt="github-readme-streak-stats"> </a> </p>
    <p align="center">
@@ -11,6 +10,9 @@
       <a href="https://github.com/CodedRedGIT?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/CodedRedGit?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
          <br>
+   
+   
+   
 <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="center" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="center" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -26,7 +28,7 @@
 <img align="center" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/django.svg" />
    </p>
    
-  
+
 
 <details open>
 <summary><h2>📜 My Organizations</h2></summary>
@@ -35,8 +37,7 @@
 <a href="https://github.com/CodedRed-Spigot"><img width="350" src="https://imgur.com/gBEkHOF.png" alt="codedRed-spigot-plugin-org"></a>
 </p>
    
-### 📺 Latest & Greatest YouTube Videos
-
+## 📺 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Coding a Clickable NPC | Packet Reader | (Ep. 2) Spigot 1.17.x](https://ytcards.demolab.com/?id=sdHi5N7-Yqk&title=Coding+a+Clickable+NPC+%7C+Packet+Reader+%7C+%28Ep.+2%29+Spigot+1.17.x&lang=en&timestamp=1629486885&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1518 "Coding a Clickable NPC | Packet Reader | (Ep. 2) Spigot 1.17.x")](https://www.youtube.com/watch?v=sdHi5N7-Yqk)
 [![Creating a Corpse Entity | (Ep. 1) Spigot 1.17.x](https://ytcards.demolab.com/?id=6LSScMdk0gU&title=Creating+a+Corpse+Entity+%7C+%28Ep.+1%29+Spigot+1.17.x&lang=en&timestamp=1628535463&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1465 "Creating a Corpse Entity | (Ep. 1) Spigot 1.17.x")](https://www.youtube.com/watch?v=6LSScMdk0gU)
@@ -44,11 +45,10 @@
 [![How to set up IntelliJ for Spigot 1.17 with Maven](https://ytcards.demolab.com/?id=s1xg9eJeP3E&title=How+to+set+up+IntelliJ+for+Spigot+1.17+with+Maven&lang=en&timestamp=1626306908&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=998 "How to set up IntelliJ for Spigot 1.17 with Maven")](https://www.youtube.com/watch?v=s1xg9eJeP3E)
 [![Introduction to Reflection | (Ep. 10) Advanced 1.16.x Spigot Coding](https://ytcards.demolab.com/?id=oaqKnvivJns&title=Introduction+to+Reflection+%7C+%28Ep.+10%29+Advanced+1.16.x+Spigot+Coding&lang=en&timestamp=1614650078&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1999 "Introduction to Reflection | (Ep. 10) Advanced 1.16.x Spigot Coding")](https://www.youtube.com/watch?v=oaqKnvivJns)
 [![Custom Persistent Data Types | (Ep. 9) Advanced 1.16.x Spigot Coding](https://ytcards.demolab.com/?id=3OLSfOkgPMw&title=Custom+Persistent+Data+Types+%7C+%28Ep.+9%29+Advanced+1.16.x+Spigot+Coding&lang=en&timestamp=1614388050&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1208 "Custom Persistent Data Types | (Ep. 9) Advanced 1.16.x Spigot Coding")](https://www.youtube.com/watch?v=3OLSfOkgPMw)
+
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/codedred?sub_confirmation=1)
-
-#
 
 <details open> 
   <summary><h2>📎 My Top Open Source Projects</h2></summary>
