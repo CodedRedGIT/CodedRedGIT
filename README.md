@@ -47,7 +47,6 @@
 [![How to set up IntelliJ for Spigot 1.17 with Maven](https://ytcards.demolab.com/?id=s1xg9eJeP3E&title=How+to+set+up+IntelliJ+for+Spigot+1.17+with+Maven&lang=en&timestamp=1626306908&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=998 "How to set up IntelliJ for Spigot 1.17 with Maven")](https://www.youtube.com/watch?v=s1xg9eJeP3E)
 [![Introduction to Reflection | (Ep. 10) Advanced 1.16.x Spigot Coding](https://ytcards.demolab.com/?id=oaqKnvivJns&title=Introduction+to+Reflection+%7C+%28Ep.+10%29+Advanced+1.16.x+Spigot+Coding&lang=en&timestamp=1614650078&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1999 "Introduction to Reflection | (Ep. 10) Advanced 1.16.x Spigot Coding")](https://www.youtube.com/watch?v=oaqKnvivJns)
 [![Custom Persistent Data Types | (Ep. 9) Advanced 1.16.x Spigot Coding](https://ytcards.demolab.com/?id=3OLSfOkgPMw&title=Custom+Persistent+Data+Types+%7C+%28Ep.+9%29+Advanced+1.16.x+Spigot+Coding&lang=en&timestamp=1614388050&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1208 "Custom Persistent Data Types | (Ep. 9) Advanced 1.16.x Spigot Coding")](https://www.youtube.com/watch?v=3OLSfOkgPMw)
-
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/codedred?sub_confirmation=1)
