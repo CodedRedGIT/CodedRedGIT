@@ -30,6 +30,10 @@
 <img align="center" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/django.svg" />
    </p>
    
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codedredgit&show_icons=true&theme=tokyonight" alt="My's GitHub stats">
+</p>
+
 
 
 <details open>
@@ -39,18 +43,7 @@
 <a href="https://github.com/CodedRed-Spigot"><img width="350" src="https://imgur.com/gBEkHOF.png" alt="codedRed-spigot-plugin-org"></a>
 </p>
 </details>
-   
-## 📺 Latest YouTube Videos
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Coding a Clickable NPC | Packet Reader | (Ep. 2) Spigot 1.17.x](https://ytcards.demolab.com/?id=sdHi5N7-Yqk&title=Coding+a+Clickable+NPC+%7C+Packet+Reader+%7C+%28Ep.+2%29+Spigot+1.17.x&lang=en&timestamp=1629486885&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1518 "Coding a Clickable NPC | Packet Reader | (Ep. 2) Spigot 1.17.x")](https://www.youtube.com/watch?v=sdHi5N7-Yqk)
-[![Creating a Corpse Entity | (Ep. 1) Spigot 1.17.x](https://ytcards.demolab.com/?id=6LSScMdk0gU&title=Creating+a+Corpse+Entity+%7C+%28Ep.+1%29+Spigot+1.17.x&lang=en&timestamp=1628535463&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1465 "Creating a Corpse Entity | (Ep. 1) Spigot 1.17.x")](https://www.youtube.com/watch?v=6LSScMdk0gU)
-[![How to use IntelliJ with NMS and Maven | Spigot 1.17](https://ytcards.demolab.com/?id=K6-deuw4N_o&title=How+to+use+IntelliJ+with+NMS+and+Maven+%7C+Spigot+1.17&lang=en&timestamp=1626751089&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=466 "How to use IntelliJ with NMS and Maven | Spigot 1.17")](https://www.youtube.com/watch?v=K6-deuw4N_o)
-[![How to set up IntelliJ for Spigot 1.17 with Maven](https://ytcards.demolab.com/?id=s1xg9eJeP3E&title=How+to+set+up+IntelliJ+for+Spigot+1.17+with+Maven&lang=en&timestamp=1626306908&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=998 "How to set up IntelliJ for Spigot 1.17 with Maven")](https://www.youtube.com/watch?v=s1xg9eJeP3E)
-[![Introduction to Reflection | (Ep. 10) Advanced 1.16.x Spigot Coding](https://ytcards.demolab.com/?id=oaqKnvivJns&title=Introduction+to+Reflection+%7C+%28Ep.+10%29+Advanced+1.16.x+Spigot+Coding&lang=en&timestamp=1614650078&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1999 "Introduction to Reflection | (Ep. 10) Advanced 1.16.x Spigot Coding")](https://www.youtube.com/watch?v=oaqKnvivJns)
-[![Custom Persistent Data Types | (Ep. 9) Advanced 1.16.x Spigot Coding](https://ytcards.demolab.com/?id=3OLSfOkgPMw&title=Custom+Persistent+Data+Types+%7C+%28Ep.+9%29+Advanced+1.16.x+Spigot+Coding&lang=en&timestamp=1614388050&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1208 "Custom Persistent Data Types | (Ep. 9) Advanced 1.16.x Spigot Coding")](https://www.youtube.com/watch?v=3OLSfOkgPMw)
-<!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/codedred?sub_confirmation=1)
 
 <details open> 
   <summary><h2>📎 My Top Open Source Projects</h2></summary>
@@ -60,7 +53,7 @@
           <a href="https://github.com/CodedRed-Spigot/XpBottles"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodedRed-Spigot&repo=XPBottles&theme=react&bg_color=1F222E&title_color=DE3163&hide_border=true&icon_color=F8D866&show_icons=true" alt="PlayTimes"></a>
    </p>
    </details>
-   
+
    
 <details closed> 
   <summary><h2>🖇 Top Projects I've Contributed To</h2></summary>
@@ -71,3 +64,32 @@
          <a href="https://github.com/WorldQL/SMPL-to-FBX"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WorldQL&repo=SMPL-to-FBX&theme=react&bg_color=1F222E&title_color=DE3163&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="SMPL-to-FBX"></a>
   </p>
    </details>
+
+
+
+   <details closed>
+    <summary>
+        <h2>📺 Latest YouTube Videos</h2>
+    </summary>
+    <a href="https://www.youtube.com/watch?v=sdHi5N7-Yqk" title="Coding a Clickable NPC | Packet Reader | (Ep. 2) Spigot 1.17.x">
+        <img src="https://ytcards.demolab.com/?id=sdHi5N7-Yqk&title=Coding+a+Clickable+NPC+%7C+Packet+Reader+%7C+%28Ep.+2%29+Spigot+1.17.x&lang=en&timestamp=1629486885&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1518" alt="Coding a Clickable NPC | Packet Reader | (Ep. 2) Spigot 1.17.x">
+    </a>
+    <a href="https://www.youtube.com/watch?v=6LSScMdk0gU" title="Creating a Corpse Entity | (Ep. 1) Spigot 1.17.x">
+        <img src="https://ytcards.demolab.com/?id=6LSScMdk0gU&title=Creating+a+Corpse+Entity+%7C+%28Ep.+1%29+Spigot+1.17.x&lang=en&timestamp=1628535463&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1465" alt="Creating a Corpse Entity | (Ep. 1) Spigot 1.17.x">
+    </a>
+    <a href="https://www.youtube.com/watch?v=K6-deuw4N_o" title="How to use IntelliJ with NMS and Maven | Spigot 1.17">
+        <img src="https://ytcards.demolab.com/?id=K6-deuw4N_o&title=How+to+use+IntelliJ+with+NMS+and+Maven+%7C+Spigot+1.17&lang=en&timestamp=1626751089&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=466" alt="How to use IntelliJ with NMS and Maven | Spigot 1.17">
+    </a>
+    <a href="https://www.youtube.com/watch?v=s1xg9eJeP3E" title="How to set up IntelliJ for Spigot 1.17 with Maven">
+        <img src="https://ytcards.demolab.com/?id=s1xg9eJeP3E&title=How+to+set+up+IntelliJ+for+Spigot+1.17+with+Maven&lang=en&timestamp=1626306908&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=998" alt="How to set up IntelliJ for Spigot 1.17 with Maven">
+    </a>
+    <a href="https://www.youtube.com/watch?v=oaqKnvivJns" title="Introduction to Reflection | (Ep. 10) Advanced 1.16.x Spigot Coding">
+        <img src="https://ytcards.demolab.com/?id=oaqKnvivJns&title=Introduction+to+Reflection+%7C+%28Ep.+10%29+Advanced+1.16.x+Spigot+Coding&lang=en&timestamp=1614650078&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1999" alt="Introduction to Reflection | (Ep. 10) Advanced 1.16.x Spigot Coding">
+    </a>
+<a href="https://www.youtube.com/watch?v=3OLSfOkgPMw" title="Custom Persistent Data Types | (Ep. 9) Advanced 1.16.x Spigot Coding">
+    <img src="https://ytcards.demolab.com/?id=3OLSfOkgPMw&title=Custom+Persistent+Data+Types+%7C+%28Ep.+9%29+Advanced+1.16.x+Spigot+Coding&lang=en&timestamp=1614388050&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1208" alt="Custom Persistent Data Types | (Ep. 9) Advanced 1.16.x Spigot Coding">
+</a>
+<a href="https://www.youtube.com/c/codedred?sub_confirmation=1">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white" alt="Subscribe For More">
+</a>
+</details>
