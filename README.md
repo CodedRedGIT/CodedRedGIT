@@ -51,7 +51,7 @@
   <p align="left">
     <a href="https://github.com/CodedRedGIT/server-transfer-fabric-spigot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodedRedGIT&repo=server-transfer-fabric-spigot&theme=react&bg_color=1F222E&title_color=DE3163&hide_border=true&icon_color=F8D866&show_icons=true" alt="server-transfer-fabric-spigot"></a>
      <a href="https://github.com/CodedRed-Spigot/PlayTimes"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodedRed-Spigot&repo=PlayTimes&theme=react&bg_color=1F222E&title_color=DE3163&hide_border=true&icon_color=F8D866&show_icons=true" alt="PlayTimes"></a>
-          <a href="https://github.com/CodedRedGIT/AutoSpigotBuilder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodedRed-Spigot&repo=XPBottles&theme=react&bg_color=1F222E&title_color=DE3163&hide_border=true&icon_color=F8D866&show_icons=true" alt="AutoSpigotBuilder"></a>
+          <a href="https://github.com/CodedRedGIT/AutoSpigotBuilder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CodedRedGit&repo=AutoSpigotBuilder&theme=react&bg_color=1F222E&title_color=DE3163&hide_border=true&icon_color=F8D866&show_icons=true" alt="AutoSpigotBuilder"></a>
    </p>
    </details>
 
